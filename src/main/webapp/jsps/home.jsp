@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to GAYATHRI COLLEGE , VIZAG , AP  ******** </h1>
-<h1 align="center"> GAYATHRI Software Solutions- Very Good Training center for MSC , BSC , 10TH , VIZAG India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to GITAM COLLEGE , VIZAG , AP  ******** </h1>
+<h1 align="center"> GITAM Software Solutions- Very Good Training center for MSC , BSC , 10TH , VIZAG India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		GAYATHRI Technologies, 
+		GITAM Technologies, 
 		Above ICICI Bank, Beside Meghana Foods,
 		VIZAG,
 		+91-8688735221
