@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title> best COLLEGE Home Page</title>
+<title>AGURU</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to best COLLEGE , rajam , AP  ******** </h1>
-<h1 align="center"> best Software Solutions- Very Good Training center for MSC , BSC , 10TH , rajam India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to PADALAMMA THALLI GUDI , rajam , AP  ******** </h1>
+<h1 align="center"> best aguru village- Very Good village for MSC , BSC , 10TH , rajam India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		best Technologies, 
+		aguru village, 
 		Above ICICI Bank, Beside Meghana Foods,
 		rajam,
 		+91-8688735221
