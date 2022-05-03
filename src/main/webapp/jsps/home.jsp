@@ -5,12 +5,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>AGURU</title>
-<link href="images/"JYOTHI-IMAGE.jpg rel="icon">
+<link href="images/" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">NAMASKARAM TO PADALAMMA THALLI GUDI , aguru, rajam , AP  ******** </h1>
-<h1 align="center"> best aguru village- Very Good village for MSC , BSC , 10TH , rajam India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">NAMASKARAM TO PADALAMMA THALLI  ******** </h1>
+<h1 align="center">****om padalamma thalli</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,11 +31,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/JYOTHI-IMAGE.jpg" alt="" width="200">
+		<img src="images" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		aguru village, 
-		Above ICICI Bank, Beside Meghana Foods,
+	        near ramalam,
 		rajam,
 		+91-8688735221
 		devopstrainingblr@gmail.com
