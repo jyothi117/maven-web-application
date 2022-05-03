@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">NAMASKARAM TO PADALAMMA THALLI  ******** </h1>
-<h1 align="center">****om padalamma thalli</h1>
+<h1 align="center">********NAMASKARAM TO PADALAMMA THALLI******** </h1>
+<h1 align="center">***OM PADALAM THALLI NAMAHA***</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,11 +34,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		aguru village, 
-	        near ramalam,
+		NEAR RAMALAYAM, 
+	        aguru village, 
 		rajam,
 		+91-8688735221
-		devopstrainingblr@gmail.com
+		tammanajyothi71@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
