@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">********NAMASKARAM TO PADALAMMA THALLI******** </h1>
-<h1 align="center">***OM PADALAM THALLI NAMAHA***</h1>
+<h1 align="center">JYOTHI MSC AU </h1>
+<h1 align="center">JYOTHI & SUDHEER & LEVNIKA IS ONLY ONE DAUGHTER </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,9 +34,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		NEAR RAMALAYAM, 
-	        aguru village, 
-		rajam,
+		VIZAG, 
+	        SIVAGIPALEM, 
+		NEAR KALABHARATHI,
 		+91-8688735221
 		tammanajyothi71@gmail.com
 		<br>
