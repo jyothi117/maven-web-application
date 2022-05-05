@@ -34,9 +34,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		VIZAG, 
-	        SIVAGIPALEM, 
-		NEAR KALABHARATHI,
+         	aguru, 
+	        rajam, 
+		srikakulam,
 		+91-8688735221
 		tammanajyothi71@gmail.com
 		<br>
